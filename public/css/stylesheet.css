@@ -2,6 +2,10 @@
 	color: #d14836;
 }
 
+.message.checked{
+	background-color: rgb(255,255,0);
+}
+
 .secondrow{
 	margin-left: 12px;
 }

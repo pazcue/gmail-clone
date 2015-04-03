@@ -1,0 +1,19 @@
+.mailboxlist{
+	color: #d14836;
+}
+
+.secondrow{
+	margin-left: 12px;
+}
+.my_div{
+	border: 1px solid blue;
+	width: 200px;	 
+	text-align: center;
+	color: red;
+	margin-left: auto;
+	margin-right: auto; 
+	margin-top: 200px;
+	background-color: #F5F5F5;
+
+}
+
